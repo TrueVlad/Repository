@@ -9,7 +9,7 @@ public class main{
         bob.displayId();    // Id = 2
         System.out.println(Person.counter); // 3
 
-        // изменяем Person.counter
+        // изменяем Person.counter  Изменения 3
         Person.counter = 8;
 
         Person sam = new Person();
